@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../springboot_01_quickstart/springboot_01_quickstart.iml" filepath="$PROJECT_DIR$/../springboot_01_quickstart/springboot_01_quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_02_base_config/springboot_02_base_config.iml" filepath="$PROJECT_DIR$/../springboot_02_base_config/springboot_02_base_config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_03_profile/springboot_03_profile.iml" filepath="$PROJECT_DIR$/../springboot_03_profile/springboot_03_profile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_04_test/springboot_04_test.iml" filepath="$PROJECT_DIR$/../springboot_04_test/springboot_04_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_05_mybatis/springboot_05_mybatis.iml" filepath="$PROJECT_DIR$/../springboot_05_mybatis/springboot_05_mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_06_mybatis/springboot_06_mybatis.iml" filepath="$PROJECT_DIR$/../springboot_06_mybatis/springboot_06_mybatis.iml" />
     </modules>
   </component>
 </project>

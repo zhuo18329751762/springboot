@@ -6,16 +6,37 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springboot_05_mybatis" />
+        <module name="springboot_04_test" />
         <module name="springboot_01_quickstart" />
+        <module name="springboot_02_base_config" />
+        <module name="springboot_03_profile" />
+        <module name="springboot_06_mybatis" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="spring_05_mybatis" target="1.8" />
       <module name="springboot_01_quickstart" target="1.8" />
+      <module name="springboot_02_base_config" target="1.8" />
+      <module name="springboot_03_profile" target="1.8" />
+      <module name="springboot_03_read_data" target="1.8" />
+      <module name="springboot_04_test" target="1.8" />
+      <module name="springboot_05_mybatis" target="1.8" />
+      <module name="springboot_06_mybatis" target="1.8" />
+      <module name="springboot_o3_profile" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring_05_mybatis" options="-parameters" />
       <module name="springboot_01_quickstart" options="-parameters" />
+      <module name="springboot_02_base_config" options="-parameters" />
+      <module name="springboot_03_profile" options="-parameters" />
+      <module name="springboot_03_read_data" options="-parameters" />
+      <module name="springboot_04_test" options="-parameters" />
+      <module name="springboot_05_mybatis" options="-parameters" />
+      <module name="springboot_06_mybatis" options="-parameters" />
+      <module name="springboot_o3_profile" options="-parameters" />
     </option>
   </component>
 </project>
