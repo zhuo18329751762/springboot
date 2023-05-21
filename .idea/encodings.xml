@@ -5,8 +5,9 @@
     <file url="file://$PROJECT_DIR$/../springboot_02_base_config/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../springboot_03_profile/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../springboot_04_test/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../springboot_05_mybatis/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../springboot_06_mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot_07_ssm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot_08_configuration/src/main/java" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
