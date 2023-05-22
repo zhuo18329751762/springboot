@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/../springboot_06_mybatis/springboot_06_mybatis.iml" filepath="$PROJECT_DIR$/../springboot_06_mybatis/springboot_06_mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/../springboot_07_ssm/springboot_07_ssm.iml" filepath="$PROJECT_DIR$/../springboot_07_ssm/springboot_07_ssm.iml" />
       <module fileurl="file://$PROJECT_DIR$/../springboot_08_configuration/springboot_08_configuration.iml" filepath="$PROJECT_DIR$/../springboot_08_configuration/springboot_08_configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_09_test/springboot_09_test.iml" filepath="$PROJECT_DIR$/../springboot_09_test/springboot_09_test.iml" />
     </modules>
   </component>
 </project>
