@@ -7,14 +7,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springboot_04_test" />
-        <module name="springboot_01_quickstart" />
         <module name="springboot_08_configuration" />
+        <module name="springboot_12_es" />
         <module name="springboot_07_ssm" />
         <module name="springboot_09_test" />
-        <module name="springboot_02_base_config" />
+        <module name="springboot_10_redis" />
         <module name="springboot_03_profile" />
         <module name="springboot_06_mybatis" />
+        <module name="springboot_14_mail" />
+        <module name="springboot_04_test" />
+        <module name="springboot_01_quickstart" />
+        <module name="springboot_13_cache" />
+        <module name="springboot_11_mongodb" />
+        <module name="springboot_15_mq" />
+        <module name="springboot_02_base_config" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -29,6 +35,12 @@
       <module name="springboot_07_ssm" target="1.8" />
       <module name="springboot_08_configuration" target="1.8" />
       <module name="springboot_09_test" target="1.8" />
+      <module name="springboot_10_redis" target="1.8" />
+      <module name="springboot_11_mongodb" target="1.8" />
+      <module name="springboot_12_es" target="1.8" />
+      <module name="springboot_13_cache" target="1.8" />
+      <module name="springboot_14_mail" target="1.8" />
+      <module name="springboot_15_mq" target="1.8" />
       <module name="springboot_o3_profile" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -45,6 +57,12 @@
       <module name="springboot_07_ssm" options="-parameters" />
       <module name="springboot_08_configuration" options="-parameters" />
       <module name="springboot_09_test" options="-parameters" />
+      <module name="springboot_10_redis" options="-parameters" />
+      <module name="springboot_11_mongodb" options="-parameters" />
+      <module name="springboot_12_es" options="-parameters" />
+      <module name="springboot_13_cache" options="-parameters" />
+      <module name="springboot_14_mail" options="-parameters" />
+      <module name="springboot_15_mq" options="-parameters" />
       <module name="springboot_o3_profile" options="-parameters" />
     </option>
   </component>

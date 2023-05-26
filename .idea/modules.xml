@@ -10,6 +10,12 @@
       <module fileurl="file://$PROJECT_DIR$/../springboot_07_ssm/springboot_07_ssm.iml" filepath="$PROJECT_DIR$/../springboot_07_ssm/springboot_07_ssm.iml" />
       <module fileurl="file://$PROJECT_DIR$/../springboot_08_configuration/springboot_08_configuration.iml" filepath="$PROJECT_DIR$/../springboot_08_configuration/springboot_08_configuration.iml" />
       <module fileurl="file://$PROJECT_DIR$/../springboot_09_test/springboot_09_test.iml" filepath="$PROJECT_DIR$/../springboot_09_test/springboot_09_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_10_redis/springboot_10_redis.iml" filepath="$PROJECT_DIR$/../springboot_10_redis/springboot_10_redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_11_mongodb/springboot_11_mongodb.iml" filepath="$PROJECT_DIR$/../springboot_11_mongodb/springboot_11_mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_12_es/springboot_12_es.iml" filepath="$PROJECT_DIR$/../springboot_12_es/springboot_12_es.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_13_cache/springboot_13_cache.iml" filepath="$PROJECT_DIR$/../springboot_13_cache/springboot_13_cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_14_mail/springboot_14_mail.iml" filepath="$PROJECT_DIR$/../springboot_14_mail/springboot_14_mail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_15_mq/springboot_15_mq.iml" filepath="$PROJECT_DIR$/../springboot_15_mq/springboot_15_mq.iml" />
     </modules>
   </component>
 </project>

@@ -9,6 +9,12 @@
     <file url="file://$PROJECT_DIR$/../springboot_07_ssm/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../springboot_08_configuration/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../springboot_09_test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot_10_redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot_11_mongodb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot_12_es/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot_13_cache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot_14_mail/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot_15_mq/src/main/java" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
